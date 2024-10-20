@@ -26,9 +26,6 @@ Welcome to my GitHub profile! I'm a passionate third-year B.E. student majoring 
 - **Kindness Library**: A fun and creative [Python library](https://pypi.org/project/kindness/) that generates random suggestions for acts of kindness, thank-you notes, and compliments. Available via `pip install kindness`.
 - **Internship at i2 Software Tech Solutions**: Contributed to projects in front-end development, gaining hands-on experience.
 - **Internship at SNS innovation Hub**: Contributed to projects in GenAI, Computer Vision & overall Product Development, gaining hands-on experience on cutting edge technologies.
----
-
-Let me know if you'd like to make any more changes!
 
 ## 📫 How to Reach Me
 - *Email*: mr.nithesh.k@gmail.com
