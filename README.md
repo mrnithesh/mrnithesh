@@ -7,22 +7,22 @@ Welcome to my GitHub profile! I'm a passionate third-year B.E. student majoring 
 
 ## 🔭 What I'm Currently Working On
 - *AI-powered Resume Builder*: A project where users can input their details, select a template, and have an AI generate an ATS-friendly resume.
+- **AI-powered Expense Tracker App**: An Android application aimed at helping users manage their expenses through AI-based insights
 - *50-Day DSA Challenge*: Learning Data Structures and Algorithms in C++ and solving problems on platforms like LeetCode.
 - *Web3 Development*: Learning and developing smart contracts (paused for now, but planning to return soon).
 - *Cloud Technologies*: Exploring GCP and AWS.
 
 ## 🌱 What I'm Learning
 - *Data Structures and Algorithms*: Deep diving into DSA with C++.
-- *Front-End Development*: Learning HTML, CSS, and JavaScript.
+- *Front-End Development*: Learning HTML, CSS, JavaScript, React.js.
 - *Web3 and Blockchain*: Continuing my journey into decentralized applications.
-Here's an updated version of your profile's README with the new projects added:
+- *Google Cloud Computing Foundations* 
 
 ## 💻 Projects
 
-- **Nila-AI-Therapist**: An open-source AI therapy chatbot designed to provide mental health support, available on [GitHub](https://github.com/mrnithesh/Nila-AI-Therapist) and [Streamlit Cloud](https://ai-nila.streamlit.app/) .
-- **AI-powered Resume Builder**: A LaTeX-based resume builder that generates ATS-friendly resumes interactively using AI. The project allows users to select templates and input details to create optimized resumes.
+- **Nila-AI-Therapist**: An open-source AI therapy chatbot designed to provide mental health support, available on [GitHub](https://github.com/mrnithesh/Nila-AI-Therapist) and [Streamlit Cloud](https://ai-nila.streamlit.app/).
 - **AI-powered Expense Tracker App**: An Android application aimed at helping users manage their expenses through AI-based insights (currently paused for further development).
-- **YouTube Video Transcript Generator**: A Streamlit app that extracts and refines YouTube video transcripts using Google's Gemini AI. Open-sourced on [GitHub](https://github.com/your-username/youtube-transcript-generator).
+- **YouTube Video Transcript Generator**: A Streamlit app that extracts and refines YouTube video transcripts using Google's Gemini AI. Open-sourced on [GitHub](https://github.com/mrnithesh/youtube-transcript) and [Streamlit Cloud](https://youtube-transcript-ai.streamlit.app/).
 - **Kindness Library**: A fun and creative [Python library](https://pypi.org/project/kindness/) that generates random suggestions for acts of kindness, thank-you notes, and compliments. Available via `pip install kindness`.
 - **Internship at i2 Software Tech Solutions**: Contributed to projects in front-end development, gaining hands-on experience.
 - **Internship at SNS innovation Hub**: Contributed to projects in GenAI, Computer Vision & overall Product Development, gaining hands-on experience on cutting edge technologies.
