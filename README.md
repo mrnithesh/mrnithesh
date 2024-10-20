@@ -15,11 +15,20 @@ Welcome to my GitHub profile! I'm a passionate third-year B.E. student majoring 
 - *Data Structures and Algorithms*: Deep diving into DSA with C++.
 - *Front-End Development*: Learning HTML, CSS, and JavaScript.
 - *Web3 and Blockchain*: Continuing my journey into decentralized applications.
+Here's an updated version of your profile's README with the new projects added:
 
 ## 💻 Projects
-- *Nila-AI-Therapist*: An AI therapy chatbot project, open-sourced on GitHub.
-- *AI-powered Expense Tracker App*: An Android app designed to help users manage their expenses using AI (currently paused).
-- *Internship at i2 Software Tech Solutions*: Contributed to projects involving IoT and cybersecurity.
+
+- **Nila-AI-Therapist**: An open-source AI therapy chatbot designed to provide mental health support, available on [GitHub](https://github.com/mrnithesh/Nila-AI-Therapist) and [Streamlit Cloud](https://ai-nila.streamlit.app/) .
+- **AI-powered Resume Builder**: A LaTeX-based resume builder that generates ATS-friendly resumes interactively using AI. The project allows users to select templates and input details to create optimized resumes.
+- **AI-powered Expense Tracker App**: An Android application aimed at helping users manage their expenses through AI-based insights (currently paused for further development).
+- **YouTube Video Transcript Generator**: A Streamlit app that extracts and refines YouTube video transcripts using Google's Gemini AI. Open-sourced on [GitHub](https://github.com/your-username/youtube-transcript-generator).
+- **Kindness Library**: A fun and creative [Python library](https://pypi.org/project/kindness/) that generates random suggestions for acts of kindness, thank-you notes, and compliments. Available via `pip install kindness`.
+- **Internship at i2 Software Tech Solutions**: Contributed to projects in front-end development, gaining hands-on experience.
+- **Internship at SNS innovation Hub**: Contributed to projects in GenAI, Computer Vision & overall Product Development, gaining hands-on experience on cutting edge technologies.
+---
+
+Let me know if you'd like to make any more changes!
 
 ## 📫 How to Reach Me
 - *Email*: mr.nithesh.k@gmail.com
