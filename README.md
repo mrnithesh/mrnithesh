@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate third-year B.E. student majoring 
 ## 💻 Projects
 
 - **Nila-AI-Therapist**: An open-source AI therapy chatbot designed to provide mental health support, available on [GitHub](https://github.com/mrnithesh/Nila-AI-Therapist) and [Streamlit Cloud](https://ai-nila.streamlit.app/).
+- **DiagramBot.ai**: An open-source AI app to generate diagrams using Mermaid syntax, designed to provide users with an intuitive and efficient way to create complex diagrams effortlessly. Available on [GitHub](https://github.com/mrnithesh/DiagramBot-ai/) and [Streamlit Cloud](https://diagrambot-ai.streamlit.app/).
 - **AI-powered Expense Tracker App**: An Android application aimed at helping users manage their expenses through AI-based insights (currently paused for further development).
 - **YouTube Video Transcript Generator**: A Streamlit app that extracts and refines YouTube video transcripts using Google's Gemini AI. Open-sourced on [GitHub](https://github.com/mrnithesh/youtube-transcript) and [Streamlit Cloud](https://youtube-transcript-ai.streamlit.app/).
 - **Kindness Library**: A fun and creative [Python library](https://pypi.org/project/kindness/) that generates random suggestions for acts of kindness, thank-you notes, and compliments. Available via `pip install kindness`.
