@@ -35,5 +35,5 @@ Welcome to my GitHub profile! I'm a passionate third-year B.E. student majoring 
 ## ⚡ Fun Fact
 I’m fascinated by the intersection of AI and Blockchain and how these technologies can transform the future!
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats of Public Repos
 ![Nithesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnithesh&show_icons=true&theme=radical)
