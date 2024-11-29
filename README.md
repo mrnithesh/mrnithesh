@@ -6,9 +6,9 @@
 Welcome to my GitHub profile! I'm a passionate third-year B.E. student majoring in Computer Science with a specialization in IoT, Cybersecurity, and Blockchain Technology. I love exploring new technologies and applying them to solve real-world problems.
 
 ## 🔭 What I'm Currently Working On
-- *AI-powered Resume Builder*: A project where users can input their details, select a template, and have an AI generate an ATS-friendly resume.
+- **GenAI-powered personalzied Educational Platform**: An innovative app which streamlines and personalizes the online learning experience
 - **AI-powered Expense Tracker App**: An Android application aimed at helping users manage their expenses through AI-based insights
-- *50-Day DSA Challenge*: Learning Data Structures and Algorithms in C++ and solving problems on platforms like LeetCode.
+- *160-Day DSA Challenge*: Learning Data Structures and Algorithms in C++/Java and solving problems on platforms like LeetCode.
 - *Web3 Development*: Learning and developing smart contracts (paused for now, but planning to return soon).
 - *Cloud Technologies*: Exploring GCP and AWS.
 
