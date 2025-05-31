@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I'm a passionate third-year B.E. student majoring 
 ## 📫 How to Reach Me
 - *Email*: mr.nithesh.k@gmail.com
 - *LinkedIn*: [linkedin.com/in/mrnithesh](https://www.linkedin.com/in/mrnithesh/)
+- *Website* [nithesh.codes](https://nithesh.codes/)
 
 ## ⚡ Fun Fact
 I’m fascinated by the intersection of AI and Blockchain and how these technologies can transform the future!
