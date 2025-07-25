@@ -1,40 +1,78 @@
-# Hi there, I'm Nithesh K 👋
-
+# Hey, I’m Nithesh! 👋
 [![GitHub followers](https://img.shields.io/github/followers/mrnithesh?label=Follow&style=social)](https://github.com/mrnithesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mrnithesh/)
 
-Welcome to my GitHub profile! I'm a passionate third-year B.E. student majoring in Computer Science with a specialization in IoT, Cybersecurity, and Blockchain Technology. I love exploring new technologies and applying them to solve real-world problems.
+> *A curious mind chasing meaningful tech, not just fancy features.*
 
-## 🔭 What I'm Currently Working On
-- **GenAI-powered personalzied Educational Platform**: An innovative app which streamlines and personalizes the online learning experience
-- **AI-powered Expense Tracker App**: An Android application aimed at helping users manage their expenses through AI-based insights
-- *160-Day DSA Challenge*: Learning Data Structures and Algorithms in C++/Java and solving problems on platforms like LeetCode.
-- *Web3 Development*: Learning and developing smart contracts (paused for now, but planning to return soon).
-- *Cloud Technologies*: Exploring GCP and AWS.
+When I first opened a terminal and saw my code actually *do* something — I didn’t just fall in love with programming. I realized it could be a medium for **healing, empowering, and educating**.
 
-## 🌱 What I'm Learning
-- *Data Structures and Algorithms*: Deep diving into DSA with C++.
-- *Front-End Development*: Learning HTML, CSS, JavaScript, React.js.
-- *Web3 and Blockchain*: Continuing my journey into decentralized applications.
-- *Google Cloud Computing Foundations* 
+Fast forward to now, I'm a final-year Computer Science student (specializing in IoT, Cybersecurity, and Blockchain), but most of my learning has happened outside the classroom — in problem statements, late-night debugging, and building things that **people can actually use**.
 
-## 💻 Projects
+---
 
-- **Nila-AI-Therapist**: An open-source AI therapy chatbot designed to provide mental health support, available on [GitHub](https://github.com/mrnithesh/Nila-AI-Therapist) and [Streamlit Cloud](https://ai-nila.streamlit.app/).
-- **DiagramBot.ai**: An open-source AI app to generate diagrams using Mermaid syntax, designed to provide users with an intuitive and efficient way to create complex diagrams effortlessly. Available on [GitHub](https://github.com/mrnithesh/DiagramBot-ai/) and [Streamlit Cloud](https://diagrambot-ai.streamlit.app/).
-- **AI-powered Expense Tracker App**: An Android application aimed at helping users manage their expenses through AI-based insights (currently paused for further development).
-- **YouTube Video Transcript Generator**: A Streamlit app that extracts and refines YouTube video transcripts using Google's Gemini AI. Open-sourced on [GitHub](https://github.com/mrnithesh/youtube-transcript) and [Streamlit Cloud](https://youtube-transcript-ai.streamlit.app/).
-- **Kindness Library**: A fun and creative [Python library](https://pypi.org/project/kindness/) that generates random suggestions for acts of kindness, thank-you notes, and compliments. Available via `pip install kindness`.
-- **Internship at i2 Software Tech Solutions**: Contributed to projects in front-end development, gaining hands-on experience.
-- **Internship at SNS innovation Hub**: Contributed to projects in GenAI, Computer Vision & overall Product Development, gaining hands-on experience on cutting edge technologies.
+## 🚀 A Few Projects That Define Me
 
-## 📫 How to Reach Me
-- *Email*: mr.nithesh.k@gmail.com
-- *LinkedIn*: [linkedin.com/in/mrnithesh](https://www.linkedin.com/in/mrnithesh/)
-- *Website* [nithesh.codes](https://nithesh.codes/)
+### 🧠 Inquire.ai — Autonomous Research Agent
 
-## ⚡ Fun Fact
-I’m fascinated by the intersection of AI and Blockchain and how these technologies can transform the future!
+In a world drowning in PDFs, reports, and unstructured data, I built **Inquire.ai** — an AI agent that doesn’t just summarize documents but **thinks** through them. It extracts KPIs, makes decisions based on intent, and even pulls external sources to back its findings.
 
-## 📊 GitHub Stats of Public Repos
-![Nithesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnithesh&show_icons=true&theme=radical)
+*LangChain, LangGraph, Gemini AI, ChromaDB, Tavily Search API — all came together not for hype, but for insight.*  
+👉 *Real-time document chat, project-based retrieval, and web-augmented reporting.*
+
+---
+
+### 🎓 Mercurious.ai — AI That Teaches You
+
+Ever felt lost trying to learn from long YouTube tutorials? So did I.  
+That’s why I built **Mercurious.ai**, an AI-powered study assistant that turns YouTube videos into **interactive lessons** — complete with auto-notes, quizzes, and AI chat.
+
+*It tracks your progress, adapts to your learning, and respects your time.*  
+👉 *Firebase-auth, YouTube Data API, Google Gemini, and a clean Streamlit UI with dark/light modes.*
+
+---
+
+### ⚖️ Sattam.ai — AI Legal Assistant for the People
+
+Law is complex. Accessing it shouldn’t be.  
+With **Sattam.ai**, I built a multilingual AI chatbot that answers legal queries across **11 Indian languages** — with citations and disclaimers.
+
+*Flask + Sonar API + a passion for social good.*  
+👉 *Property, family, consumer laws — all demystified through natural language.*
+
+---
+
+## 💡 What Drives Me
+
+I don’t chase tech stacks — I chase problems worth solving.  
+From building a **mental health therapist**, a **positivity library**, to a **habit tracker that works offline**, I’ve always believed that:
+
+> *Good software isn’t just functional. It’s human.*
+
+You’ll find me tinkering with LLMs, visualizing architectures, experimenting with Flutter, debugging Flask backends, or occasionally learning how to *really* use cloud and version control the right way.
+
+---
+
+## 📊 GitHub Stats & Insights
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=mrnithesh&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+
+
+<!-- GitHub Streaks Card -->
+<img src="https://streak-stats.demolab.com?user=mrnithesh&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
+
+<!-- GitHub Contribution Graph (by Ashutosh00710) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrnithesh&theme=radical" alt="Contribution Graph" height="200"/>
+
+</div>
+
+
+---
+
+## 📫 Let’s Connect
+
+- ✉️ Email: mr.nithesh.k@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/mrnithesh](https://www.linkedin.com/in/mrnithesh/)  
+- 🌍 Portfolio: [nithesh.codes](https://nithesh.codes/)
