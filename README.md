@@ -1,78 +1,67 @@
-# Hey, I’m Nithesh! 👋
+# Hey, I'm Nithesh! 👋
 [![GitHub followers](https://img.shields.io/github/followers/mrnithesh?label=Follow&style=social)](https://github.com/mrnithesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mrnithesh/)
 
-> *A curious mind chasing meaningful tech, not just fancy features.*
+> *Good software isn't just functional. It's human.*
 
-When I first opened a terminal and saw my code actually *do* something — I didn’t just fall in love with programming. I realized it could be a medium for **healing, empowering, and educating**.
+I'm a Backend Engineer at **Fox Corporation**, working across a polyglot stack of Go, Java, and Python — building user-facing and internal services, cross-team integrations, and the occasional AI agent that makes someone's workday significantly less painful.
 
-Fast forward to now, I'm a final-year Computer Science student (specializing in IoT, Cybersecurity, and Blockchain), but most of my learning has happened outside the classroom — in problem statements, late-night debugging, and building things that **people can actually use**.
+My path here started in Generative AI. I've built RAG pipelines, LLM-powered tools, and agentic systems — and that background still shapes how I think about backend problems, especially where intelligence belongs in a system and where it doesn't.
+
+Most of my real learning has happened outside the classroom — in problem statements, late-night debugging sessions, and building things people can actually use.
 
 ---
 
-## 🚀 A Few Projects That Define Me
+## 🚀 Projects That Define Me
 
-### 🧠 Inquire.ai — Autonomous Research Agent
+### 🤖 Inquire.ai — Autonomous Research Agent
+PDFs and unstructured data are everywhere. **Inquire.ai** is an AI agent that doesn't just summarize documents — it thinks through them. It extracts KPIs, reasons based on intent, and pulls external sources to back its findings.
 
-In a world drowning in PDFs, reports, and unstructured data, I built **Inquire.ai** — an AI agent that doesn’t just summarize documents but **thinks** through them. It extracts KPIs, makes decisions based on intent, and even pulls external sources to back its findings.
-
-*LangChain, LangGraph, Gemini AI, ChromaDB, Tavily Search API — all came together not for hype, but for insight.*  
-👉 *Real-time document chat, project-based retrieval, and web-augmented reporting.*
+*LangChain · LangGraph · Gemini AI · ChromaDB · Tavily Search API*
+👉 Real-time document chat, project-based retrieval, and web-augmented reporting.
 
 ---
 
 ### 🎓 Mercurious.ai — AI That Teaches You
+Long YouTube tutorials, no structure, no retention. **Mercurious.ai** turns videos into interactive lessons — auto-notes, quizzes, and AI chat that adapts to how you learn.
 
-Ever felt lost trying to learn from long YouTube tutorials? So did I.  
-That’s why I built **Mercurious.ai**, an AI-powered study assistant that turns YouTube videos into **interactive lessons** — complete with auto-notes, quizzes, and AI chat.
-
-*It tracks your progress, adapts to your learning, and respects your time.*  
-👉 *Firebase-auth, YouTube Data API, Google Gemini, and a clean Streamlit UI with dark/light modes.*
+*Firebase · YouTube Data API · Google Gemini · Streamlit*
+👉 Progress tracking, dark/light modes, and a UI that stays out of your way.
 
 ---
 
 ### ⚖️ Sattam.ai — AI Legal Assistant for the People
+Law is complex. Accessing it shouldn't be. **Sattam.ai** answers legal queries across 11 Indian languages — property, family, consumer law — with citations and responsible disclaimers.
 
-Law is complex. Accessing it shouldn’t be.  
-With **Sattam.ai**, I built a multilingual AI chatbot that answers legal queries across **11 Indian languages** — with citations and disclaimers.
-
-*Flask + Sonar API + a passion for social good.*  
-👉 *Property, family, consumer laws — all demystified through natural language.*
+*Flask · Sonar API*
+👉 Built for people who can't afford a lawyer, not for people who already have one.
 
 ---
 
-## 💡 What Drives Me
-
-I don’t chase tech stacks — I chase problems worth solving.  
-From building a **mental health therapist**, a **positivity library**, to a **habit tracker that works offline**, I’ve always believed that:
-
-> *Good software isn’t just functional. It’s human.*
-
-You’ll find me tinkering with LLMs, visualizing architectures, experimenting with Flutter, debugging Flask backends, or occasionally learning how to *really* use cloud and version control the right way.
+### 🧠 Nila — AI Therapist
+Sometimes you just need to talk. **Nila** is an empathetic voice and text GenAI assistant for personal counseling — built carefully, with the weight of that responsibility in mind.
 
 ---
 
-## 📊 GitHub Stats & Insights
+## 💡 What I'm Working With
+
+**At work:** Go · Java · Python · Distributed Systems · AWS · Databases · Cross-team service integrations
+
+**In projects:** LangChain · LangGraph · LangFlow · FastAPI · Docker · ChromaDB · Gemini AI · Streamlit
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=mrnithesh&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-
-
-<!-- GitHub Streaks Card -->
 <img src="https://streak-stats.demolab.com?user=mrnithesh&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
-
-<!-- GitHub Contribution Graph (by Ashutosh00710) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrnithesh&theme=radical" alt="Contribution Graph" height="200"/>
-
 </div>
-
 
 ---
 
-## 📫 Let’s Connect
-
-- ✉️ Email: mr.nithesh.k@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/mrnithesh](https://www.linkedin.com/in/mrnithesh/)  
-- 🌍 Portfolio: [nithesh.codes](https://nithesh.codes/)
+## 📫 Let's Connect
+- ✉️ Email: mr.nithesh.k@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/mrnithesh](https://www.linkedin.com/in/mrnithesh/)
+- 🌍 Portfolio: [nithesh.is-a.dev](https://nithesh.is-a.dev/)
